@@ -1,4 +1,4 @@
-# IPL Auction Analysis
+# IPL Auction Analysis 📊
 
 This repository contains an in-depth analysis of IPL player auction data using Excel, Power BI and Python. The project explores key trends, insights, and patterns in player selection, pricing, and team composition, providing actionable intelligence for fans, analysts, and decision-makers.
 
@@ -60,13 +60,13 @@ The primary goals of this analysis are:
 
 ## Visualizations
 ### Overview
-![Overview](overview.jpg)
+![Overview](Overview.jpg)
 
 ### Average Cost by Type
 ![Average Cost by Type](average_cost_by_type.jpg)
 
 ### Money Saved vs Money Spent
-![Money Saved vs Money Spent](money_saved_vs_money_spent.jpg)
+![Money Saved vs Money Spent](money saved vs money spent.jpg)
 
 ### Spending Percentage by Type
 ![Spending Percentage by Type](spending_percentage_by_type.jpg)

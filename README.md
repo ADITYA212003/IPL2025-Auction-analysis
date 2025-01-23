@@ -66,7 +66,7 @@ The primary goals of this analysis are:
 ![Average Cost by Type](average_cost_by_type.jpg)
 
 ### Money Saved vs Money Spent
-![Money Saved vs Money Spent](money saved vs money spent.jpg)
+![Money Saved vs Money Spent](money_saved_vs_money_spent.jpg)
 
 ### Spending Percentage by Type
 ![Spending Percentage by Type](spending_percentage_by_type.jpg)
